@@ -1,0 +1,536 @@
+,id,Startup,Sector,Business_Model,Employee_count,Employment_taxes,Turnover,Year_Founded,Website
+0,1,Bolt,Transportation,B2B2C,1144,"6,400,000.00","178,400,000.00",2013,http://bolt.eu
+1,3,Wise,FinTech,"B2B, C2C,",1338,"5,200,000.00","40,100.00",2013,https://wise.com/
+2,5,Veriff,CyberTech,"B2B,",386,"1,700,000.00","13,100,000.00",2015,www.veriff.com
+3,9,Paxful,FinTech,"B2C,",70,"991,500.00","3,300,000.00",2016,www.paxful.com
+4,11,Milrem Robotics,Transportation,"B2B, B2G",171,"836,800.00","2,800,000.00",2013,www.milremrobotics.com
+5,13,Monese,FinTech,-,166,"827,700.00","130,300.00",2015,https://www.monese.com/
+6,14,Glia,Communication,"B2B,",112,"707,300.00","2,200,000.00",2012,https://salemove.wistia.com/
+7,16,Swappie,Consumer,B2C,519,"643,600.00","20,400,000.00",2020,www.swappie.com
+8,19,Eurora Solutions,Business,"B2B, B2C",80,"511,900.00","486,100.00",2018,www.eurora.com
+9,21,Adcash,AdTech &,-,48,"505,400.00","7,800,000.00",2011,https://adcash.com/
+10,23,Scoro,Business,B2B,94,"492,300.00","3,300,000.00",2013,https://www.scoro.com/
+11,26,GoWorkAbit,Business,-,368,"485,700.00","1,700,000.00",2013,https://goworkabit.ee/
+12,28,Comodule,CleanTech,"B2B, B2C,",125,"471,700.00","7,800,000.00",2014,https://www.comodule.com/
+13,30,ONOFF APP OU,Communication,B2B2C,68,"445,400.00","2,400,000.00",2014,https://www.onoffapp.com/
+14,31,Testlio,Business,-,64,"444,600.00","1,200,000.00",2012,http://testlio.com/
+15,33,Sixfold,Transportation,B2B,61,"433,100.00","1,700,000.00",2017,https://sixfold.com
+16,35,Katana MRP,Advanced,"B2B, B2C,",76,"432,200.00","1,300,000.00",2017,https://katanamrp.com
+17,38,Linnworks,Business,B2B,95,"403,300.00","1,400,000.00",2011,https://www.linnworks.com/
+18,40,Xolo,FinTech,B2B,78,"396,100.00","1,400,000.00",2015,https://www.xolo.io/
+19,41,Change Invest,FinTech,B2C,67,"361,000.00","3,600,000.00",2016,www.changeinvest.com
+20,42,Tuum,FinTech,B2B,60,"354,500.00","868,700.00",2019,https://tuumplatform.com/
+21,43,Ampler Bikes,Transportation,B2C,115,"347,200.00","1,700,000.00",2014,www.amplerbikes.com
+22,45,RangeForce,CyberTech,B2B,43,"330,500.00","925,200.00",2014,https://www.rangeforce.com/home
+23,46,3Commas,FinTech,"B2B, B2C,",44,"302,400.00","8,500,000.00",2016,https://3commas.io/
+24,48,Threod Systems,SpaceTech,-,57,"294,400.00","1,100,000.00",2012,https://threod.com/
+25,49,EstateGuru,FinTech,"B2B, B2C,",53,"291,200.00",,2013,https://estateguru.co
+26,51,CybExer Technologies,CyberTech,-,25,"266,800.00","1,000,000.00",2016,http://www.cybexer.com/
+27,54,Single.Earth,CleanTech,B2B,53,"259,400.00","226,100.00",2019,www.single.earth
+28,55,Brainbase,Business,B2B,26,"257,500.00","946,700.00",2016,https://www.brainbase.com/
+29,57,Fractory,Advanced,"B2B, B2C",42,"256,100.00","1,900,000.00",2017,fractory.com
+30,60,Klaus,Business,"B2B, B2C",36,"227,500.00","700,400.00",2018,www.klausapp.com
+31,62,Topia,Business,-,32,"220,400.00","781,500.00",2014,https://www.topia.com/
+32,64,eAgronom,AgTech &,B2B,36,"203,700.00","599,900.00",2016,http://eagronom.com/
+33,66,Salv,FinTech,B2B,41,"194,000.00","273,900.00",2018,www.salv.com
+34,67,OCCO,Business,B2B,46,"192,800.00","3,800,000.00",2016,occo.digital
+35,69,Insly Ltd,FinTech,"B2B,",41,"191,600.00","1,000,000.00",2013,https://www.insly.com/en/
+36,71,Pactum AI OU,Business,"B2B, B2C,",26,"186,900.00","285,700.00",2019,www.pactum.com
+37,73,Silen,Advanced,-,39,"170,900.00","2,100,000.00",2018,https://silenspace.com/
+38,76,Fiizy,FinTech,B2B2C,21,"163,700.00","2,600,000.00",2014,www.fiizy.com
+39,77,Turnit,TravelTech,"B2B, B2G,",36,"154,200.00","1,100,000.00",2014,www.turnit.com
+40,79,Roofit.solar,CleanTech,"B2B, B2C,",38,"153,800.00","765,000.00",2016,https://roofit.solar
+41,81,CyberCube Analytics,CyberTech,B2B,19,"150,100.00","528,500.00",2019,www.cybcube.com
+42,84,MCF,Communication,B2B,28,"149,600.00","75,400.00",2016,https://greenergydatacenters.com/
+43,85,Multilogin,CyberTech,"B2B, B2C",21,"148,600.00","2,700,000.00",2015,http://multilogin.com
+44,86,Auve,Transportation,"B2B,",32,"143,300.00","62,100.00",2017,auve.tech
+45,88,Burfa,CyberTech,-,22,"138,000.00","3,700,000.00",2013,https://burfa.com/
+46,89,Hepta,CleanTech,B2B,30,"124,400.00","228,600.00",2017,https://heptaairborne.com
+47,90,Funderbeam.,FinTech,"B2C,",20,"122,900.00","365,000.00",2013,www.funderbeam.com
+48,92,Messente,CyberTech,B2B,20,"120,900.00","4,400,000.00",2013,www.messente.com
+49,94,Moss Estonia,FinTech,B2B,17,"120,500.00","472,300.00",2021,https://en.getmoss.com/
+50,95,Bob W,TravelTech,"B2B, B2C",29,"119,900.00","152,800.00",2018,bobw.co
+51,96,MRP Easy,Business,B2B,24,"119,200.00","836,000.00",2014,www.mrpeasy.com
+52,98,Deel,Business,"B2B,",27,"118,400.00","308,500.00",2021,https://www.letsdeel.com/
+53,100,SkySelect,Transportation,B2B,16,"117,000.00","397,300.00",2017,www.skyselect.com
+54,104,Jobbatical,Business,B2B2C,22,"112,800.00","911,100.00",2014,https://jobbatical.com/
+55,106,EyeVi Technologies,Transportation,B2B,37,"112,400.00","127,700.00",2020,https://www.eyevi.tech
+56,108,NEXD,AdTech &,"B2B,",18,"106,700.00","334,500.00",2015,https://nexd.com
+57,111,Lingvist,EdTech,B2C,19,"105,400.00","753,300.00",2013,http://lingvist.io/
+58,112,Car Rental Gateway,TravelTech,B2B,33,"105,000.00","372,000.00",2016,https://www.carrentalgateway.com/
+59,114,meetFrank,Business,"B2B,",18,"97,300.00","507,500.00",2017,https://www.meetfrank.com/
+60,116,CoinMetro Group OU,FinTech,"C2C, B2C",22,"94,000.00","20,600.00",2018,https://coinmetro.com/
+61,117,Evocon OU,Advanced,B2B,21,"91,900.00","857,500.00",2016,www.evocon.com
+62,120,Agrello,Business,"B2B, B2C,",13,"90,900.00","13,000.00",2017,https://www.agrello.io
+63,122,Outvio OU,Business,B2B2C,29,"90,000.00","436,300.00",2017,https://outvio.com
+64,124,Polybius,FinTech,B2C,14,"89,700.00","296,900.00",2018,https://osom.finance
+65,125,Shopz.com,Consumer,B2B,18,"89,100.00","265,200.00",2020,www.shopz.com
+66,128,R8 TECHNOLOGIES,PropTech &,B2B,22,"89,000.00","257,500.00",2017,https://r8tech.io/
+67,130,Qminder,Business,B2B,15,"87,000.00","331,700.00",2011,qminder.com
+68,132,Agileworks,Business,-,23,"85,600.00","351,000.00",2011,https://www.agileworks.eu/
+69,134,MINDTITAN,Business,B2B,30,"84,400.00","301,900.00",2016,www.mindtitan.com
+70,136,Planet42,FinTech,"B2C,",10,"83,400.00","86,500.00",2017,www.planet42.com
+71,138,Pocopay,FinTech,-,11,"81,200.00","223,400.00",2014,http://www.pocopay.com/
+72,141,Guardarian OU,FinTech,"B2B, B2C,",10,"81,100.00","628,200.00",2017,guardarian.com
+73,143,Emphy,TravelTech,-,39,"78,700.00","1,600.00",2017,https://emphy.io/
+74,144,Snackable,Communication,-,11,"75,900.00","832,400.00",2019,https://www.snackable.ai/
+75,145,Area9 Rhapsode,EdTech,"B2B, B2G,",22,"75,400.00","198,700.00",2021,https://area9lyceum.com
+76,147,Viveo Health,"HealthTech, Life","B2B, B2C",11,"74,700.00",,2017,www.viveohealth.com
+77,150,GlobalReader,Advanced,B2B,17,"74,000.00","292,200.00",2014,www.globalreader.eu
+78,153,SportID,"HealthTech, Life","B2B, B2C",21,"73,700.00","338,900.00",2012,www.stebby.eu
+79,156,Bikeep,Transportation,"B2B, B2G,",19,"73,300.00","229,500.00",2012,http://bikeep.com
+80,158,Fusebox,CleanTech,"B2B,",11,"73,300.00","119,400.00",2014,www.fusebox.energy
+81,160,SensusQ,Communication,B2G,10,"72,100.00","12,700.00",2020,www.sensusq.com
+82,161,Remato,PropTech &,B2B,15,"70,900.00","167,300.00",2018,https://remato.com
+83,163,Bisly,PropTech &,B2B,13,"68,000.00","454,400.00",2011,www.bisly.com
+84,165,1oT,Communication,B2B,20,"67,700.00","685,800.00",2016,http://1oT.com/
+85,168,Weekdone,Business,B2B,15,"67,300.00","212,400.00",2012,weekdone.com
+86,172,NodeSWAT,Business,-,18,"66,300.00","362,800.00",2012,https://nodeswat.com/
+87,174,Opiq,EdTech,"B2B,",19,"65,600.00","614,100.00",2013,http://www.opiq.ee
+88,176,Resys,FinTech,-,7,"65,500.00","111,600.00",2016,http://www.resys.io/
+89,179,ESTO,FinTech,B2B2C,26,"65,300.00","225,800.00",2017,https://esto.ee
+90,180,Atomic Wallet,FinTech,B2C,5,"65,200.00","3,000,000.00",2018,https://atomicwallet.io/
+91,181,Synctuition OU,"HealthTech, Life","B2B, B2C",18,"65,000.00","1,600,000.00",2016,www.synctuition.com
+92,184,Nevercode,Business,B2B,12,"64,400.00","42,900.00",2015,https://codemagic.io
+93,186,GScan,Advanced,B2G,18,"63,100.00","34,000.00",2018,https://gscan.eu
+94,189,Credy,FinTech,B2C,11,"63,000.00","1,700,000.00",2015,www.credy.com
+95,190,Outfunnel,AdTech &,B2B,10,"62,600.00","182,300.00",2018,https://outfunnel.com
+96,192,Uku,Consumer,"B2B,",16,"62,300.00","386,800.00",2017,getuku.com
+97,195,Wolf3D,Gaming,"B2B,",12,"60,700.00","88,700.00",2014,www.wolf3d.io
+98,197,Ignium,FinTech,"B2B,",9,"60,300.00","12,700.00",2019,www.ignium.io
+99,200,Bercman Technologies,CleanTech,"B2B, B2G",17,"60,000.00","86,700.00",2016,www.bercman.com
+100,201,Warren,Communication,"B2B,",10,"59,200.00","110,400.00",2012,https://warren.io
+101,203,HUUM,Consumer,-,27,"59,000.00","1,600,000.00",2013,http://huum.eu/
+102,206,Vok Bikes,Transportation,"B2B,",23,"56,100.00","98,000.00",2019,https://www.vokbikes.com/
+103,208,Mercury Cash,FinTech,B2B2C,1,"55,200.00",,2019,https://www.mercury.cash/
+104,209,Paywerk,FinTech,"B2B, B2C,",7,"55,200.00","69,800.00",2021,https://paywerk.co
+105,211,Teamscope,Business,B2B,6,"53,900.00","61,300.00",2015,https://teamscope.io
+106,213,Fyma OU,PropTech &,"B2B, B2G",10,"53,000.00","10,600.00",2017,www.fyma.ai
+107,215,UpSteam,CleanTech,"B2B, B2C",12,"51,300.00","155,500.00",2017,https://www.upsteam.ee/eng.html
+108,216,Spaceit,SpaceTech,"B2B,",7,"51,100.00","91,400.00",2015,https://www.spaceit.eu/
+109,218,Sentinel,CyberTech,"B2B, B2G",12,"50,700.00","522,500.00",2018,https://thesentinel.ai
+110,219,Rendin,PropTech &,"B2C,",14,"50,300.00","8,600.00",2019,www.rendin.co
+111,223,Digital Sputnik,AdTech &,"B2B, B2C",8,"48,900.00","205,000.00",2014,www.digitalsputnik.com
+112,225,Clickwork Games,Gaming,-,11,"48,300.00","437,100.00",2019,https://clickworkgames.com/
+113,226,Fintech-Market,FinTech,"B2B,",11,"47,700.00","215,700.00",2018,https://www.fintech-market.com
+114,230,BASIS ID,CyberTech,"B2B, B2C",13,"46,700.00","4,500.00",2016,https://basisid.com
+115,231,MotherLink,AdTech &,B2B,13,"46,600.00","725,100.00",2017,https://motherlink.io
+116,233,Clanbeat,EdTech,"B2B, B2G",8,"45,200.00","4,000.00",2018,clanbeat.com
+117,234,KappaZeta,SpaceTech,"B2B, B2G",16,"44,900.00","158,700.00",2015,www.kappazeta.ee
+118,235,LightCode Photonics,Advanced,B2B,17,"43,800.00",,2020,www.lightcodephotonics.com
+119,238,UBIK Solutions,CleanTech,"B2B, B2C,",1,"43,800.00","28,500.00",2011,www.ubiksolutions.eu
+120,240,Overstep by Gamecan,Gaming,"B2B, B2C",20,"42,900.00","166,500.00",2015,www.overstepgame.com
+121,241,Respiray,"HealthTech, Life","B2B, B2C",13,"42,600.00","76,600.00",2020,www.respiray.com
+122,244,Speys,Transportation,B2B,7,"42,500.00","509,900.00",2016,https://www.speys.com/
+123,246,Yaga,Consumer,C2C,9,"42,200.00","206,800.00",2017,yaga.co.za
+124,249,FoodDocs,AgTech &,B2B,14,"41,800.00","125,100.00",2017,www.fooddocs.com
+125,251,Medihub,"HealthTech, Life",B2B,21,"40,500.00",,2015,https://medihub.me/en
+126,254,Haut.AI,"HealthTech, Life","B2B,",5,"40,100.00","188,300.00",2018,https://haut.ai/
+127,257,Bankish,FinTech,B2B,7,"39,700.00","116,600.00",2017,www.bankish.eu
+128,258,ParcelSea,Transportation,"B2B, B2C,",7,"39,200.00","52,600.00",2020,https://parcelsea.com/en
+129,260,Brightspark,Business,B2B,9,"38,600.00","37,900.00",2011,https://lexi.market
+130,262,Solarstone,CleanTech,"B2B, B2C,",22,"38,300.00","466,500.00",2015,https://solarstone.com
+131,264,Eurostep Digital,FinTech,B2B,6,"38,200.00","7,800.00",2017,www.eurostepdigital.com
+132,266,Advendor,AdTech &,-,10,"37,800.00","530,300.00",2014,https://advendor.net/
+133,268,Find Fashion,AdTech &,B2B,5,"37,500.00","58,000.00",2019,find.fashion
+134,270,Woola,CleanTech,B2B,8,"37,300.00","26,200.00",2020,woola.xyz
+135,271,Avokaado,Business,"B2B, B2C",9,"36,500.00","144,600.00",2015,www.avokaado.com
+136,273,Nobe Cars,Advanced,"B2B, B2G,",8,"35,800.00","32,900.00",2017,www.mynobe.com
+137,276,voog,Business,-,8,"34,900.00","164,000.00",2011,https://www.voog.com/en
+138,278,Timbeter,Advanced,-,14,"34,900.00","201,100.00",2013,http://www.timbeter.com/
+139,281,Mekl,Business,B2B,6,"34,800.00","331,500.00",2019,https://www.mekl.io/
+140,283,Bidrento,PropTech &,B2B,9,"34,200.00","23,500.00",2019,https://bidrento.com/
+141,286,Devolon,FinTech,"B2B, B2C",8,"34,100.00","377,300.00",2014,-
+142,287,HIGH MOBILITY,Transportation,B2B2C,6,"33,600.00","110,700.00",2013,https://high-mobility.com/
+143,289,Degritter,Consumer,B2B2C,13,"33,200.00","808,300.00",2015,https://degritter.com
+144,292,99math,EdTech,"B2C,",10,"33,100.00",,2019,www.99math.com
+145,294,FeelingStream,Business,"B2B,",22,"33,100.00","125,300.00",2015,https://www.feelingstream.com
+146,296,Autobahn,Transportation,"B2B,",4,"32,500.00","96,000.00",2013,www.autobahn.tech
+147,298,Lightyear,FinTech,-,4,"32,100.00",,2021,https://golightyear.com/
+148,299,FleetGuru,Business,B2B,5,"31,900.00","12,900.00",2020,fleetguru.app
+149,301,Sentinel dVPN,CyberTech,B2C,6,"31,800.00","194,300.00",2021,https://sentinel.co
+150,302,Fairown,FinTech,B2B,9,"31,600.00",,2018,www.fairown.com
+151,303,Coursy.io,Business,"B2B, B2G,",5,"31,300.00","72,000.00",2019,https://www.coursy.io/
+152,305,Scanbro,Advanced,B2B,6,"30,700.00","29,000.00",2017,https://scanbro.com
+153,308,Eziil Production,Advanced,B2B,10,"30,400.00","99,900.00",2016,www.eziil.com
+154,311,PARSIQ,FinTech,"B2B, B2C",9,"29,900.00","838,400.00",2018,https://www.parsiq.net/
+155,312,So.Fa.Dog,AdTech &,"B2B,",5,"29,400.00","16,400.00",2020,https://so.fa.dog
+156,315,BLE Locking,Consumer,"B2B, B2C,",3,"29,000.00","72,000.00",2018,www.blelocking.com
+157,318,DriveX,Transportation,"B2B,",7,"28,700.00","72,400.00",2019,www.drivex.ee
+158,320,Fitlap OU,"HealthTech, Life",B2C,7,"28,600.00","225,300.00",2015,https://fitlap.ee
+159,326,Mediamodifier,AdTech &,"B2B, B2C,",12,"28,400.00","117,900.00",2019,https://mediamodifier.com
+160,328,DefSecIntel,CyberTech,"B2B, B2G",6,"28,200.00","348,800.00",2018,www.defsecintel.com
+161,329,Thinnect,Communication,B2B,16,"28,000.00","150,200.00",2015,www.thinnect.com
+162,330,Cachet,FinTech,B2B2C,5,"27,400.00","138,300.00",2018,www.cachet.me
+163,331,Gridio,CleanTech,"B2C,",6,"27,300.00","21,600.00",2018,https://gridio.io/en
+164,333,Rexplorer,CleanTech,"B2B, B2C",7,"27,200.00","45,600.00",2020,https://www.rexplorer.ee/
+165,334,ViisTek Media OU,AdTech &,"B2C,",7,"27,200.00","146,400.00",2012,http://www.viistek.com/
+166,336,Antegenes,"HealthTech, Life","B2B, B2C,",10,"27,000.00","7,300.00",2018,www.antegenes.com
+167,339,REBELROAM OU,CyberTech,"B2B,",7,"27,000.00","327,700.00",2015,www.rebelroam.com
+168,341,EFENCO,CleanTech,B2B,7,"27,000.00","52,500.00",2015,efenco.eu
+169,342,Promoty,AdTech &,B2B,7,"26,700.00","270,900.00",2017,https://www.promoty.io
+170,346,Citybee,Transportation,B2C,12,"26,600.00","1,400,000.00",2019,www.citybee.ee
+171,348,Modash,AdTech &,B2B,8,"26,000.00","290,500.00",2018,https://www.modash.io/
+172,350,IPDx,"HealthTech, Life","B2B, B2C",8,"26,000.00","67,800.00",2017,www.ipdx.eu
+173,353,ProBit Exchange,FinTech,"B2B, B2C",8,"25,600.00",,2020,www.probit.com
+174,354,Income,FinTech,"B2B, B2C",8,"25,300.00","125,600.00",2020,www.getincome.com
+175,355,Crowdestate,FinTech,"B2B, B2C",4,"25,300.00","333,300.00",2019,www.crowdestate.eu
+176,356,Moderan Solutions,PropTech &,B2B,6,"24,700.00","58,800.00",2015,https://www.moderansolutions.com
+177,358,Liigu,TravelTech,B2C,11,"24,700.00","875,700.00",2021,https://liigu.me
+178,359,Airobot,CleanTech,"B2B, B2C",7,"24,600.00","239,300.00",2013,www.airobot.ee
+179,362,Superhands,CleanTech,"B2B, B2C,",12,"24,200.00","105,600.00",2014,https://superhands.ee/en/
+180,364,Lydian,AdTech &,"B2B,",8,"23,900.00","65,000.00",2018,getlydian.com
+181,366,Viseven,Business,-,5,"23,600.00","7,500,000.00",2014,https://viseven.com
+182,368,10Lines,Advanced,B2B,9,"23,400.00","7,300.00",2019,www.10-lines.com
+183,371,Mothership,FinTech,"B2B, B2C",2,"23,200.00",,2017,https://mothership.cx
+184,374,Hanse Digital Access,FinTech,B2B2C,5,"23,100.00","15,400.00",2018,www.hansedigitalaccess.com
+185,375,Elsavie,"HealthTech, Life","B2B, B2C",8,"23,000.00","82,700.00",2020,www.elsavie.com
+186,378,Machineric,Business,B2B,8,"22,900.00","14,000.00",2020,https://machineric.com
+187,380,Mikaels Lab,Business,-,4,"22,300.00","426,400.00",2018,https://mikaels.com/
+188,382,SoftComply,"HealthTech, Life",B2B,4,"22,200.00","155,900.00",2016,https://softcomply.com/
+189,385,RecruitLab,Business,"B2B, B2G",5,"22,100.00","42,700.00",2020,https://recruitlab.co.uk
+190,387,Kriptomat,FinTech,B2C,3,"22,100.00","555,500.00",2018,https://kriptomat.io/
+191,388,Envoice,FinTech,-,9,"21,300.00","98,200.00",2015,https://envoice.eu/et/
+192,389,Dermtest OU,"HealthTech, Life","B2B, B2G,",8,"21,100.00","31,700.00",2013,www.dermtest.com
+193,392,Siffi,"HealthTech, Life","B2B,",7,"21,000.00","111,400.00",2018,www.siffi.com
+194,395,Videolevels OU,Consumer,B2B,4,"20,900.00","139,900.00",2016,www.videolevels.com
+195,398,LoQuiz,TravelTech,B2B,7,"20,800.00","108,000.00",2011,loquiz.com
+196,399,Patchstack,CyberTech,B2B,4,"20,700.00","72,200.00",2017,https://www.patchstack.com/
+197,400,Hygify,"HealthTech, Life","B2B,",8,"20,700.00","59,700.00",2018,www.hygify.info
+198,404,GuestJoy,TravelTech,"B2B,",6,"20,700.00","110,000.00",2014,https://guestjoy.com/
+199,406,Gratitude Services,Consumer,"B2B, B2C",13,"20,600.00","17,800.00",2019,https://gratitudeservices.com
+200,409,VideoCV OU,Business,B2B,7,"20,300.00","15,600.00",2016,https://videocv.io/en
+201,411,Parcelfellow,Transportation,B2B2C,12,"19,700.00","261,500.00",2014,www.parcelfellows.com
+202,413,TEXTA OU,Communication,"B2B, B2G",11,"19,600.00","58,000.00",2016,www.texta.ee
+203,414,SPEAKLY,EdTech,"B2B, B2C",17,"19,300.00","143,900.00",2018,https://www.speakly.me
+204,415,Lokimo,TravelTech,B2B2C,3,"19,300.00","69,700.00",2017,www.lokimo.ee
+205,416,Yanu,Consumer,"B2B, B2C",5,"19,200.00","13,400.00",2018,https://yanu.ai
+206,419,Saunum,Consumer,B2C,2,"19,200.00","31,400.00",2014,www.saunum.com
+207,422,eID Easy,CyberTech,"B2B,",5,"19,100.00","19,000.00",2016,https://eideasy.com
+208,424,Investly,FinTech,B2B,5,"19,100.00","59,300.00",2014,https://investly.co
+209,425,Aeon Must Die! by,Gaming,"B2B, B2C,",10,"18,900.00",,2016,http://limestone-games.com
+210,427,YuMuuv,"HealthTech, Life","B2B,",5,"18,900.00","45,200.00",2019,https://yumuuv.com
+211,430,Relancer,Business,B2B,6,"18,700.00","16,600.00",2020,https://relancer.com
+212,436,Marduk Technologies,SpaceTech,"B2B, B2G",8,"18,600.00","26,000.00",2016,www.marduk.ee
+213,437,Dexatel,Communication,"B2B,",3,"18,100.00","6,600,000.00",2015,https://dexatel.com/
+214,439,shoproller,AdTech &,-,5,"17,800.00","66,500.00",2012,http://www.shoproller.ee/
+215,441,NEURISIUM,Advanced,B2B,6,"17,600.00","93,000.00",2017,www.neurisium.com
+216,444,Vegvisir,Advanced,"B2B, B2G",1,"17,500.00","65,900.00",2021,https://vegvisir.ee
+217,447,Synbase,"HealthTech, Life","B2B, B2G",9,"17,100.00","181,500.00",2016,https://synbase.eu/
+218,450,Gelatex,Advanced,B2B,5,"17,000.00","27,800.00",2016,www.gelatex.com
+219,453,Omniwire Estonia,FinTech,B2B2C,9,"16,900.00",,2020,omniwire.com
+220,454,Worksup,AdTech &,"B2B, B2G",5,"16,800.00","53,000.00",2018,https://www.worksup.com/
+221,456,hi.com,FinTech,"B2B, B2C,",6,"16,600.00","830,100.00",2020,hi.com
+222,458,Erplybooks,FinTech,-,6,"16,500.00","109,000.00",2011,https://www.erplybooks.com/
+223,459,Triumf Health,"HealthTech, Life",B2B,5,"16,500.00","11,100.00",2018,http://triumf.health/
+224,463,Salto X,FinTech,B2B2C,4,"16,500.00","60,300.00",2021,www.saltox.co
+225,464,CostPocket,FinTech,B2B,3,"16,500.00","101,400.00",2016,https://www.costpocket.com
+226,465,Storadera,Communication,B2B,5,"16,400.00","6,600.00",2019,storadera.com
+227,466,Salto,Communication,C2C,1,"16,000.00","12,000.00",2017,https://salto.co/
+228,467,Bladestorm,Gaming,B2C,2,"16,000.00","350,300.00",2020,bladestorm.org
+229,468,Reverse Resources,CleanTech,B2B,3,"16,000.00","15,200.00",2014,http://www.reverseresources.net
+230,469,PDF Generator API,Business,B2B,2,"15,400.00","218,700.00",2012,https://pdfgeneratorapi.com/
+231,471,Autlo OU,Transportation,B2B2C,7,"15,200.00","109,000.00",2013,www.autlo.com
+232,473,Waybiller,Transportation,"B2B, B2G",5,"15,100.00","29,300.00",2017,https://waybiller.com
+233,475,Ultra,Gaming,B2C,7,"14,900.00","2,000,000.00",2018,www.ultra.io
+234,476,Ampher Technologies,CleanTech,B2B2C,7,"14,900.00","2,800.00",2018,www.amphertech.com
+235,477,Vespia,CyberTech,B2B,4,"14,900.00","12,800.00",2020,https://vespia.io/
+236,478,Rephop,FinTech,B2B,3,"14,600.00","54,900.00",2013,https://www.rephop.com/
+237,479,Wert,FinTech,"B2B,",7,"14,300.00",,2020,wert.io
+238,481,Mentornaut,EdTech,B2C,7,"14,100.00","16,300.00",2020,https://mentornaut.ee
+239,482,GPO,CleanTech,"B2B, B2C,",2,"14,000.00","111,600.00",2020,https://www.gpo-tech.com/
+240,484,Futuclass,EdTech,"B2G, B2C,",6,"14,000.00","16,700.00",2019,www.futuclass.com
+241,487,Paul-Tech,AgTech &,B2B,5,"13,800.00","22,300.00",2019,https://paul-tech.com/
+242,489,Eliis,EdTech,"B2B, B2G,",7,"13,700.00","75,100.00",2013,www.eliis.ee
+243,491,makeitneutral,CleanTech,"B2B, B2C,",7,"13,700.00","10,400.00",2021,makeitneutral.org
+244,493,JxBrowser,Business,B2B,3,"13,700.00","2,800,000.00",2016,https://www.teamdev.com/jxbrowser
+245,495,CUPLOOP,CleanTech,"B2B,",8,"13,400.00","13,100.00",2018,www.cuploop.com
+246,497,Supervisely,Business,B2B,3,"13,300.00","193,300.00",2020,https://supervise.ly
+247,499,Hundred5,Business,-,3,"13,300.00","226,700.00",2017,http://hundred5.com/
+248,501,Scalacube,Gaming,B2C,2,"13,300.00","1,700,000.00",2019,https://scalacube.com
+249,502,Dashbird,Business,-,6,"13,300.00","104,200.00",2017,https://dashbird.io/
+250,504,Upty,Consumer,B2C,6,"13,100.00",,2018,upty.ee
+251,507,Geneto,"HealthTech, Life","B2C,",5,"13,000.00","26,900.00",2016,https://geneto.com/
+252,510,InstaComm,Business,B2B,4,"12,800.00","533,700.00",2019,https://instacomm.de/
+253,512,Narayana,CyberTech,"B2B, B2C",3,"12,700.00","93,600.00",2015,https://narayana.im
+254,513,WePower,CleanTech,-,1,"12,600.00",,2018,https://wepower.network/
+255,514,Botguard,CyberTech,B2B,2,"12,600.00","2,000.00",2019,https://botguard.net
+256,517,SOMA Smart Home,Consumer,"B2B, B2C",8,"12,400.00","127,700.00",2013,www.somasmarthome.com
+257,520,ExtendLaw OU,Business,B2B,5,"12,400.00","158,200.00",2016,http://extendlaw.com/
+258,522,Modern Mobility,Transportation,"B2G, B2C",7,"12,200.00","37,800.00",2018,https://www.modernmobility.eu/
+259,524,Binalyze,CyberTech,"B2B, B2C",2,"12,100.00","1,500,000.00",2018,www.binalyze.com
+260,525,MyDello,Transportation,B2B,2,"12,100.00","586,000.00",2018,MyDello.com
+261,527,PRNEWS.IO,AdTech &,"B2B,",2,"11,800.00","798,900.00",2018,https://prnews.io
+262,529,Adact,AdTech &,B2B,3,"11,600.00","42,900.00",2019,www.adact.me
+263,531,Hausing,PropTech &,"B2B, B2C,",2,"11,500.00","12,100.00",2017,www.hausing.ee
+264,533,Joyixir,Gaming,"B2C,",5,"11,500.00","83,600.00",2020,https://joyixir.com
+265,535,BugBox Ltd,AgTech &,"B2B, B2C",4,"11,400.00","9,600.00",2015,www.bugbox.ee
+266,537,ConTech,Business,"B2B, B2C",1,"11,300.00","97,100.00",2020,https://www.consumertech.ee/
+267,539,Up Catalyst,CleanTech,B2B,10,"11,300.00","2,100.00",2019,https://www.upcatalyst.com/
+268,540,VeeRa,FinTech,B2B,3,"11,200.00","78,300.00",2016,https://veera.eu/
+269,541,Marketing Sharks,AdTech &,-,6,"11,100.00","71,900.00",2012,http://www.marketingsharks.ee/
+270,543,RunProperty.com,PropTech &,B2B,4,"11,000.00",,2021,https://runproperty.com
+271,546,Teamweek,Business,-,2,"11,000.00","609,700.00",2017,https://teamweek.com/
+272,548,InfraFly,Business,B2B,3,"11,000.00","14,400.00",2017,https://oms.infrafly.ee/
+273,550,Adovinci,AdTech &,B2B,5,"11,000.00","7,100.00",2017,www.adovinci.com
+274,552,QDO,Business,B2B,5,"10,900.00","75,300.00",2019,https://qdo.ee/
+275,554,Bacca,Business,"B2B, B2G,",5,"10,800.00","86,500.00",2018,baccasoft.com
+276,556,CTF Tech,CyberTech,"B2B, B2G,",14,"10,700.00","10,800.00",2020,www.ctftech.com
+277,558,Allies,Business,B2B,4,"10,600.00","51,200.00",2018,https://allies.digital
+278,560,guavaHR,Communication,B2B,5,"10,100.00","49,100.00",2018,www.guavahr.com
+279,561,Sharewell,Business,B2B,3,"10,100.00","15,600.00",2020,www.sharewell.eu
+280,563,Navicup,TravelTech,"B2G,",5,"10,000.00","42,200.00",2019,navicup.com
+281,565,Creatomus Solutions,PropTech &,B2B,8,"9,400.00","78,200.00",2015,https://www.creatomus.com
+282,567,Airpatrol,CleanTech,-,2,"9,400.00","60,300.00",2012,http://www.airpatrol.eu/
+283,568,Hoovi,FinTech,B2B,3,"9,300.00","64,400.00",2018,www.hoovi.ee
+284,569,Migrevention,"HealthTech, Life","B2B, B2C,",3,"9,200.00",,2020,www.migrevention.com
+285,572,Leadfinder,Business,B2B,5,"9,200.00","60,500.00",2020,www.leadfinder.ai
+286,575,FanSifter,AdTech &,B2B,3,"9,100.00","11,500.00",2019,https://fansifter.com/
+287,577,ForPeeps Payments,FinTech,B2B2C,2,"9,100.00","1,800.00",2018,https://forpeeps.eu
+288,578,New Garage Time,Business,-,2,"8,900.00","50,200.00",2011,http://www.newtime.ee/
+289,580,Hive.id,CyberTech,B2B2C,1,"8,800.00",,2018,https://hive.id
+290,581,TutorId,EdTech,B2C,2,"8,600.00","3,600.00",2015,https://tutor.id/
+291,582,EnderTuring,Business,B2B,1,"8,400.00","71,200.00",2018,https://enderturing.com
+292,584,Praktikal,EdTech,"B2B, B2G,",11,"8,400.00","17,400.00",2021,https://praktikal.ee
+293,586,Digital Wedding!,Consumer,"B2G, B2C",2,"8,300.00","36,700.00",2019,www.securetech.ee/dw
+294,592,Operose Labs OU,Business,B2B,2,"8,200.00",,2017,www.operose.io
+295,594,DATA CORPORATION OU,Business,"B2B, B2G,",1,"8,100.00","8,000.00",2018,https://identix.one
+296,596,Vocal Image,EdTech,B2C,1,"8,000.00","142,800.00",2021,https://www.vocalimage.app/
+297,597,ALPA Kids,EdTech,"B2B, B2G,",7,"7,800.00","18,500.00",2018,https://alpakids.com/
+298,599,Exscudo OU,FinTech,"B2B, B2C",3,"7,700.00",,2016,www.exscudo.com
+299,600,Crezu,FinTech,B2C,2,"7,600.00","5,800,000.00",2018,crezu.com
+300,601,Ringy,Consumer,B2B2C,4,"7,600.00","85,900.00",2020,www.ringy.app
+301,606,Excipio,Business,-,1,"7,600.00","58,300.00",2012,http://www.benuevo.com/
+302,608,Einsteins Square,EdTech,B2B2C,2,"7,500.00","354,400.00",2018,https://square.lepreschools.com
+303,609,reWiLD,CleanTech,"B2B, B2G",6,"7,300.00","19,400.00",2013,www.rewild.ee
+304,610,Ari Care,CleanTech,"B2B, B2C,",6,"7,300.00","14,600.00",2021,https://ari.shop
+305,612,Traxby,Consumer,"B2B, B2C",8,"7,200.00","39,500.00",2013,www.traxby.com
+306,617,KrattWorks,CleanTech,"B2B, B2G,",3,"7,200.00","12,000.00",2018,www.krattworks.com
+307,620,DocuMental,"HealthTech, Life","B2B, B2C",1,"7,100.00",,2016,www.documental.ee
+308,623,VARCUS Solutions,Transportation,B2B,3,"7,000.00","28,700.00",2020,https://varcus.com/
+309,625,Themo,CleanTech,B2B,3,"7,000.00","53,500.00",2014,https://themo.io/
+310,626,HUGO.legal,Business,"B2B, C2C",4,"7,000.00","256,500.00",2015,www.hugo.legal
+311,628,Piixpay,FinTech,"B2B,",2,"6,900.00",,2018,https://www.piixpay.com/
+312,630,NutriLoop,CleanTech,"B2B, B2G,",3,"6,900.00","18,700.00",2018,nutriloop.org
+313,633,Fienta,AdTech &,"B2B, B2C",1,"6,800.00","77,400.00",2014,https://fienta.com/
+314,635,AdoptoMedia,AdTech &,B2B,8,"6,800.00","100,200.00",2017,http://www.adoptomedia.com/
+315,637,Moticheck,Business,B2B,2,"6,800.00","5,400.00",2021,moticheck.com
+316,639,LANDEX,FinTech,"B2B, B2C",3,"6,700.00",,2021,https://www.landex.ai/
+317,640,AlphaAR,Consumer,B2B,4,"6,700.00","47,800.00",2018,https://alphaar.io/
+318,643,Calidity,CleanTech,B2B,7,"6,700.00","58,000.00",2016,https://www.calidityapp.com/
+319,647,Merkuur OU / Mobile,EdTech,"B2B, B2G,",3,"6,600.00","30,700.00",2016,https://www.merkuur.eu/summary
+320,649,Klovy,TravelTech,-,1,"6,000.00","66,600.00",2013,http://www.klovy.com/
+321,650,Folderit,Business,B2B,1,"5,800.00","45,200.00",2014,https://www.folderit.com
+322,654,itrays OU,Consumer,"B2B,",2,"5,700.00","83,700.00",2020,https://itrays.ee
+323,657,UXDN,Business,B2B,1,"5,500.00","38,500.00",2019,https://flowlab.ai
+324,659,Larva.io,PropTech &,"B2B,",1,"5,500.00","6,900.00",2019,https://www.larva.io/
+325,663,WIP (workinpeace.io),Business,"B2B,",3,"5,400.00","13,900.00",2018,https://workinpeace.io/venues/
+326,665,WAPI,Transportation,B2B,2,"5,400.00","859,900.00",2019,https://www.wapi.com
+327,667,SetGo,Business,B2B,2,"5,300.00","7,400.00",2019,https://www.setgo.ee/
+328,669,MOST TECHNOLOGY,Business,"B2B,",1,"5,300.00",,2021,https://most.technology
+329,671,Teremarket,Business,-,2,"5,200.00","216,900.00",2013,http://teremarkets.com/index.html
+330,673,Crystalspace OU,SpaceTech,"B2B,",3,"5,100.00","17,400.00",2013,https://crystalspace.eu
+331,675,BHC Laboratory,CyberTech,-,1,"5,100.00","82,500.00",2012,https://www.bhclab.com/
+332,676,Lennuabi,TravelTech,B2C,2,"5,000.00","23,900.00",2016,https://www.lennuabi.ee/en/
+333,677,TranslateWise,Business,"B2B,",2,"5,000.00",,2018,www.translatewise.com
+334,679,ContentQuo,Business,"B2B, B2G",1,"4,800.00","87,800.00",2015,https://contentquo.com/
+335,681,Polkadex,FinTech,B2C,3,"4,800.00",,2020,https://www.polkadex.trade/
+336,682,Gallerist,AdTech &,-,2,"4,800.00","20,600.00",2014,http://galleristapp.com/
+337,684,QPage.one,Business,B2B,2,"4,800.00","18,100.00",2020,https://www.qpage.one/
+338,686,CAV Solutions,CyberTech,B2B,2,"4,700.00","6,400.00",2021,cav.ee
+339,687,Appkeep,Business,B2B,1,"4,700.00","52,700.00",2016,https://appkeep.co
+340,690,WiseDrive,Consumer,"B2B, B2C",2,"4,600.00","15,200.00",2019,www.wisedrive.ee
+341,693,SKYCORP,SpaceTech,"B2B, B2G",4,"4,600.00","2,500.00",2017,www.sky-corp.eu
+342,694,Autolevi,Transportation,"B2B, C2C,",3,"4,600.00","20,200.00",2013,http://www.autolevi.ee/
+343,696,DataCalculus,Business,B2B,2,"4,600.00","4,800.00",2019,https://datacalculus.com/
+344,698,BookSwap,Consumer,"C2C,",4,"4,500.00","8,100.00",2016,www.bookswap.co.uk
+345,701,Mobinner,AdTech &,"B2B, B2C",2,"4,500.00",,2017,https://mobinner.com
+346,703,BaBash,Consumer,B2B2C,2,"4,400.00","3,700.00",2018,babash.eu
+347,706,FACT Industries,SpaceTech,B2B,4,"4,400.00",,2017,www.fact-industries.com
+348,707,Quppy,FinTech,B2B2C,1,"4,300.00",,2018,www.quppy.com
+349,708,Artano,FinTech,"B2B, C2C",1,"4,300.00","5,600.00",2021,artano.io
+350,709,Sama Sama studios,Gaming,-,5,"4,200.00","17,300.00",2015,http://www.samasama-studios.com/
+351,712,GDPR Register,Business,B2B,1,"4,100.00","26,100.00",2018,www.gdprregister.eu
+352,714,Bide prints,Advanced,B2B,5,"4,000.00","33,300.00",2021,www.bide.ee
+353,717,Cityntel,CleanTech,-,2,"4,000.00","9,700.00",2014,http://www.cityntel.com/
+354,722,Soter Analytics,"HealthTech, Life","B2B, B2G",1,"4,000.00",,2016,https://soteranalytics.com/
+355,725,Edumus,EdTech,B2B,3,"4,000.00",,2020,https://global.edumus.org/
+356,729,PocketPro,Consumer,"B2B, C2C,",3,"3,900.00","1,800.00",2021,www.pocketpro.ee
+357,732,Arf,FinTech,"B2B, B2C,",1,"3,800.00","2,400.00",2019,https://www.arf.one/
+358,734,C-box,Transportation,"B2B, B2C",2,"3,800.00",,2021,c-box.eu
+359,736,Myinnergo,"HealthTech, Life",-,3,"3,800.00","12,100.00",2014,https://www.myinnergo.co.uk/
+360,739,CareMate,Consumer,C2C,5,"3,700.00","10,100.00",2017,www.caremate.ee
+361,742,Remosi Technology,Communication,"B2B, B2C",2,"3,600.00",,2019,remosi.com
+362,743,Loti Digital,CyberTech,"B2B, B2G,",1,"3,600.00","46,500.00",2020,https://lotidigital.com
+363,745,gratico,Business,"B2B, B2C",1,"3,600.00","10,500.00",2020,https://www.grati.co
+364,747,FashLab,AdTech &,B2B2C,2,"3,600.00","316,600.00",2016,www.fashlab.com
+365,750,Planyard,PropTech &,B2B,2,"3,600.00","23,000.00",2018,https://www.planyard.com
+366,752,PopSpot,Communication,"C2C, B2C",1,"3,400.00","12,200.00",2021,www.popspot.com
+367,753,Consorto,PropTech &,"B2B,",1,"3,400.00","2,100.00",2017,www.consorto.com
+368,755,Zubax Robotics OU,SpaceTech,"B2B, B2G",2,"3,300.00","112,300.00",2015,https://zubax.com/telega
+369,756,KosherDev,AgTech &,-,1,"3,300.00","9,000.00",2014,https://kosherdev.com/
+370,758,Snacka!,Communication,"B2B, B2C,",2,"3,200.00","5,300.00",2021,https://www.snacka.app/
+371,760,Basaar,AdTech &,C2C,2,"3,200.00","17,100.00",2013,https://basaar.com
+372,762,EUROPESHUTTLE OU,TravelTech,"B2B, B2G,",2,"3,200.00","63,500.00",2018,www.europeshuttle.com
+373,765,Planlogi,Transportation,-,2,"3,100.00","17,400.00",2018,http://planlogi.ee/
+374,767,Kalida Contract,Advanced,"B2B,",1,"3,100.00","55,000.00",2020,https://visualize.kalidacontract.com
+375,770,NeuraKinesis,"HealthTech, Life","B2B, C2C",2,"3,100.00","52,000.00",2017,http://neurakinesis.eu/
+376,773,Noise Machine,AdTech &,-,1,"3,100.00","7,700.00",2017,https://noisemachine.eu/
+377,776,AIcont,Business,B2B,1,"2,900.00",,2018,aicont.eu
+378,779,Aerostat H2H,Business,B2B2C,4,"2,900.00","40,000.00",2020,www.h2h.ee
+379,781,The Maiden,Gaming,B2C,1,"2,900.00",,2019,https://blindfoxstudio.com/
+380,782,Votemo,AdTech &,"B2B,",4,"2,900.00","7,200.00",2018,votemo.eu
+381,784,Vementis Group,"HealthTech, Life",B2B,1,"2,800.00","107,700.00",2013,http://vementis.com/
+382,790,Moonable,FinTech,"B2B, B2G,",2,"2,800.00","27,900.00",2021,www.moonable.finance
+383,793,SmartMicroPharmacy,"HealthTech, Life",B2B2C,2,"2,700.00","374,300.00",2017,https://glamarium.com/
+384,798,ParamountDax,FinTech,B2C,1,"2,600.00","127,600.00",2018,www.paramountdax.io
+385,799,Power Algae,CleanTech,"B2B,",2,"2,600.00",,2013,www.poweralgae.eu
+386,801,2local,FinTech,"B2B, B2C",1,"2,600.00",,2021,https://2local.io/
+387,803,MeGusto,AgTech &,-,2,"2,500.00","12,500.00",2014,http://megusto.ee/
+388,805,PROXXIFY,Consumer,"B2B,",2,"2,500.00",,2020,www.proxxify.net
+389,812,AliNull,Consumer,"B2B, B2C",2,"2,500.00",,2018,alinull.com
+390,815,BaseTracK,Transportation,B2B,4,"2,500.00",,2019,www.basetrack.net
+391,817,flexaa,Business,"B2B, B2G,",1,"2,400.00","7,900.00",2020,flexaa.com
+392,819,Cyber Boxer,CyberTech,"B2B,",2,"2,400.00",,2019,www.cyberboxer.com
+393,821,WageCan,FinTech,"B2B, B2C",1,"2,400.00","8,000.00",2016,wagecan.com
+394,822,PANGEYA,Consumer,"B2B,",1,"2,400.00","11,900.00",2020,https://pangeyagroup.com/en/
+395,825,Official IQ Test,"HealthTech, Life",B2C,2,"2,400.00",,2020,https://officialiqtests.com
+396,828,Veloxmobile OU,EdTech,B2C,3,"2,400.00",,2017,https://multikey.app/
+397,831,VidiPost,AdTech &,"B2B,",1,"2,300.00","15,000.00",2019,www.vidipost.com
+398,833,Flowbase,Advanced,"B2B,",3,"2,300.00","7,700.00",2018,www.flowbase.io
+399,836,Challenger Solutions,CleanTech,B2B,1,"2,300.00","18,700.00",2017,https://northwindengineering.com/
+400,837,Sunmill,CleanTech,"B2B, B2C",1,"2,300.00",,2020,www.sunmill.energy
+401,838,Gigimot,"HealthTech, Life",B2B,1,"2,300.00",,2020,https://www.gigimot.com
+402,841,TwogNation,Gaming,B2C,1,"2,200.00","128,100.00",2017,www.twoghub.com
+403,842,Sentab,Consumer,-,1,"2,200.00",,2013,https://www.sentab.com/
+404,845,Headtime OU,EdTech,B2C,2,"2,100.00",,2013,https://www.facebook.com/
+405,847,MindChip,Transportation,B2B,2,"2,100.00","34,000.00",2019,mindchip.ee
+406,851,Iffent,PropTech &,"B2B, C2C,",1,"2,100.00",,2019,iffent.ee
+407,853,RingStone,Business,B2B,3,"2,100.00","150,100.00",2020,https://www.ringstonetech.com
+408,858,rashidov.su,AgTech &,"B2B, B2C",1,"2,000.00",,2019,https://scale.rashidov.su
+409,862,CEMAS - Marketing,AdTech &,B2B,2,"2,000.00",,2019,http://elemcon.marketing
+410,865,Magnetic IP OU,Consumer,"B2B, B2C",1,"2,000.00","6,000.00",2015,teslaamazing.com
+411,868,zerply,AdTech &,-,1,"1,900.00","6,700.00",2012,http://www.zerply.com/
+412,870,REXR,Gaming,"B2B, B2C",2,"1,900.00","10,300.00",2018,www.rexr.io
+413,871,Onde,Transportation,B2B,1,"1,800.00","893,500.00",2018,https://onde.app
+414,873,Forestbook,AgTech &,B2B,1,"1,800.00","1,700,000.00",2018,https://www.forestbook.com
+415,875,Local Guide OU,TravelTech,"C2C, B2C",1,"1,700.00","1,300.00",2012,www.likealocalguide.com
+416,876,Aufort,FinTech,"B2B, B2C,",5,"1,700.00","9,900.00",2014,https://aufort.gold
+417,878,Cardoo,FinTech,B2B2C,1,"1,700.00",,2021,https://cardoo.finance
+418,879,VanOnGo,Transportation,-,2,"1,700.00","189,300.00",2019,https://vanongo.com/
+419,881,ProProtein,AgTech &,B2B,1,"1,600.00",,2021,https://proprotein.eu/
+420,883,Crassula,FinTech,B2B,1,"1,600.00",,2017,http://crassula.io
+421,884,SinuLab,Business,"B2B, B2C",1,"1,600.00","23,900.00",2014,sinulab.com
+422,886,Staffbranding,Business,"B2B,",1,"1,600.00",,2017,www.staffbranding.com
+423,888,Vetik OU,CleanTech,B2B,2,"1,600.00",,2017,www.vetik.eu
+424,889,TRIT,Business,"B2B, B2C,",2,"1,500.00",,2018,https://about.trit.pro/platform
+425,891,Capster,"HealthTech, Life",-,2,"1,500.00","27,900.00",2014,https://capster.ee/
+426,898,Energiaoksjon,Business,"B2B, B2G",2,"1,500.00","69,300.00",2018,www.energiaoksjon.ee
+427,900,Gattai,Communication,"B2B, B2C",1,"1,500.00",,2019,https://www.gatt.ai
+428,901,Paytailor,FinTech,B2B,1,"1,500.00","17,600.00",2015,https://www.paytailor.com
+429,902,Pridegamesstudio,Gaming,B2C,1,"1,500.00","111,900.00",2018,https://www.pgstudio.io
+430,903,Traxnet,AdTech &,-,2,"1,500.00",,2018,https://tracxnet.com/
+431,905,Najafov Digital OU,EdTech,"B2B, B2C",2,"1,500.00","8,100.00",2017,https://www.najafov.co/
+432,906,LearnWise,EdTech,"B2B, B2G",2,"1,500.00","14,600.00",2020,https://www.learnwise.io
+433,907,Chain TLM,Transportation,B2B,1,"1,500.00",,2019,www.chaintlm.com
+434,911,Smartswap,Consumer,"B2B, C2C,",3,"1,400.00","4,800.00",2019,www.smartswap.com
+435,914,Skuuper,Business,"B2B, B2C",1,"1,400.00","4,100.00",2014,www.skuuper.com
+436,916,KOMTERE OU,Consumer,"B2B, B2G,",1,"1,300.00",,2016,-
+437,922,Adeo imaging,Business,-,1,"1,300.00","2,000.00",2014,http://adeoimaging.ee/
+438,924,SATU Laboratory,"HealthTech, Life","B2B, B2C,",1,"1,300.00","32,800.00",2015,www.satulaboratory.com
+439,932,Dilesy,EdTech,"B2C,",1,"1,200.00","32,600.00",2013,https://dilesy.com/
+440,938,Tebo,EdTech,"B2B, C2C,",2,"1,100.00",,2015,www.tebo.me
+441,940,Raison,FinTech,"B2B, B2C",1,"1,100.00","4,300.00",2017,raison.app
+442,941,Deep Vantage,Business,B2B,1,"1,100.00",,2018,deepvantage.com
+443,943,Ridline,Communication,B2B,1,"1,100.00","11,200.00",2016,www.ridline.com
+444,944,TownChat,TravelTech,B2B2C,1,"1,100.00",,2020,http://townchat.io
+445,945,Space Hub,Consumer,"B2C,",1,"1,100.00",,2020,https://kladovkin.ru
+446,948,Zeew,Transportation,B2B,1,"1,100.00","54,500.00",2017,http://zeew.eu
+447,951,M-Flowers.,Business,B2B,2,"1,000.00","401,300.00",2021,https://m-flowers.com/
+448,954,enty,Business,"B2B, B2C",1,"1,000.00","121,700.00",2020,enty.io
+449,956,Miratag,Business,B2B,2,"1,000.00","32,300.00",2014,https://www.miratag.com
+450,958,HiStaff,Business,B2C,1,"1,000.00","6,600.00",2021,https://histaff.io
+451,960,Callmidwife,"HealthTech, Life",-,6,"1,000.00",,2014,http://callmidwife.com/et/
+452,963,Friedegggames OU,Gaming,B2C,1,"1,000.00","279,500.00",2018,https://friedeggames.com/
+453,970,Unsinkable Robotics,Advanced,B2B,1,,"8,500.00",2019,https://unsinkable.eu/
+454,973,Pagerr,Advanced,B2B,1,,"54,000.00",2019,pagerr.net
+455,976,Naine.fit,"HealthTech, Life",B2C,1,,,2020,www.naine.fit
+456,979,YORSO,AgTech &,B2B,1,,"1,100,000.00",2018,https://yorso.com
+457,983,Work Quest,Business,"B2B, C2C,",1,,,2019,www.workquest.co
+458,986,89COINS,Business,"B2B, B2C",1,,,2020,https://89coins.org/
+459,989,Sellme,AdTech &,B2B,1,,,2018,https://sellme.ee
+460,991,By Cycle,Business,"B2B, B2G,",1,,,2020,https://bycycle.io/
+461,993,Neuromarketing tips,AdTech &,-,1,,"16,900.00",2018,https://neuromarketingtips.eu/
+462,1000,Kookon,Consumer,-,2,,"260,100.00",2016,https://www.kookon.ee/
+463,1003,Fanclear,FinTech,"B2B, B2C,",1,,,2020,fanclear.com
+464,1005,SeekingWolf OU,AdTech &,"B2B, B2C",1,,,2017,http://seekingwolf.com.
+465,1007,Talkie,"HealthTech, Life",B2B2C,1,,,2018,https://evaai.io/
+466,1010,HealthCode AI,"HealthTech, Life","B2B, B2G",2,,"2,500.00",2018,www.healthcodeai.com
+467,1016,Flowline,CleanTech,"B2B, B2G",1,,,2019,www.flowline.ee
+468,1017,MyFinancier,FinTech,"B2C,",2,,"3,300.00",2017,www.myf.ee
+469,1028,Evenstad,Business,B2B,2,,"1,100.00",2020,https://evenstad.ee
+470,1030,TuEnvioYa OU,Transportation,"B2B, B2C",1,,"4,500.00",2017,www.tuenvioya.com.uy
+471,1032,Captor,Business,B2B,1,,,2019,captor.us
+472,1034,Price&Cost,FinTech,B2B,1,,"26,900.00",2015,www.priceandcost.com
+473,1035,moduulo,Business,B2B,1,,,2018,https://www.moduulo.com/
+474,1037,Myceen,CleanTech,"B2B, B2C",1,,,2021,www.myceen.com
+475,1040,Surfzone,Consumer,-,1,,"12,900.00",2016,https://surfzone.co/
+476,1043,Premium,Gaming,"B2B,",1,,"18,400.00",2016,www.pbt.com.mt
+477,1047,EasyStyle,Business,"B2B,",1,,,2021,https://easystl.com/
+478,1049,Relabit,PropTech &,B2B2C,1,,,2019,www.relabit.online
+479,1051,S I L E N T O,Consumer,"B2C,",2,,"10,900.00",2019,www.silento.info
+480,1054,Nudre,TravelTech,B2B,1,,,2019,www.nudre.com
+481,1059,Rosella Kunst,Consumer,"B2B, B2C",11,,,2018,rosellakunst.com
+482,1071,Captain Corrosion,Consumer,-,1,,"58,000.00",2016,https://captaincorrosion.com/
+483,1076,hausECO,PropTech &,"B2B, B2C",1,,"9,700.00",2020,www.hauseco.ee
+484,1080,zyffy,Consumer,"B2B, C2C,",1,,,2017,www.zyffy.com
+485,1097,xappfactory,AdTech &,"B2B, B2C,",2,,,2020,xappfactory.com
+486,1099,I Can Grab / Vahva,"HealthTech, Life",-,1,,"6,000.00",2017,www.vahva.eu
+487,1105,Boardlee,Business,"B2B, B2C",1,,,2020,https://boardlee.com
+488,1110,IMEPILT STUDIOS,Communication,B2B2C,1,,,2017,www.imepilt.com
+489,1123,Frank.ai,AdTech &,B2B,1,,,2015,http://frank.ai/
+490,1129,Festivality,Consumer,"B2B,",2,,,2015,http://www.festivality.co/
+491,1132,Bakwerke,AdTech &,"B2B, C2C,",2,,,2016,https://www.ticketfriends.ee/
+492,1135,CapOne Research OU,FinTech,"B2B, B2C",6,,,2016,www.caponeresearch.com
+493,1142,Triggmine OU,AdTech &,B2B,1,,,2015,http://www.triggmine.com
+494,1161,TempID,"HealthTech, Life",B2B2C,3,,,2017,www.tempid.ee
+495,1173,TravelUnion OU,TravelTech,B2B,1,,,2016,www.travelunion.net
+496,1210,DigiFlak,CyberTech,"B2B, B2C",1,,,2013,www.digiflak.com
+497,1249,Fundwise,FinTech,"B2B, B2C",2,,"16,000.00",2014,fundwise.me
+498,1250,CrowdCoinage OU,FinTech,"B2B, B2C",1,,,2017,https://crowdcoinage.com
+499,1314,Vee Security,CyberTech,B2C,1,,,2018,veesecurity.com
+500,1321,Goslim school (Vexor,"HealthTech, Life",B2C,1,,"567,800.00",2017,www.goslim.pro
+501,1384,Aenbee OU,Consumer,"B2C,",2,,,2018,patentscope.wipo.int/search/en/
+502,1475,XIV OU,Advanced,B2B,1,,,2017,www.xiv.ee
+503,1488,SignLang,"HealthTech, Life",B2C,2,,"13,200.00",2018,signlang.io
+504,1491,Sayat.me,Communication,"C2C, B2C",2,,,2018,sayat.me
+505,1578,Feniks Gaming Ou,Gaming,"B2B, C2C,",1,,,2017,www.feniksgaming.com
+506,1603,fetchM,AdTech &,"B2C,",1,,,2019,fetchm.app
+507,1658,Inventory,AdTech &,-,1,,,2016,http://www.inventory.com/
+508,1674,MotionChart,"HealthTech, Life",-,1,,,2014,https://motionchart.com/
+509,1695,ScaleDrone,Business,-,1,,"6,000.00",2014,http://www.scaledrone.com/
+510,1702,Somno,Business,-,2,,,2015,https://somno.co/et
+511,1745,Rokkex,FinTech,-,1,,,2019,https://www.rokkex.com/
+512,1753,Multiwebpay,FinTech,"B2B, C2C,",1,,,2018,https://nitronpay.com
+513,1838,Graspic,Consumer,"B2C,",1,,,2018,graspic.app
+514,1853,Pageloot,AdTech &,B2B,1,,"18,500.00",2019,www.pageloot.com/bio
+515,1869,My Power Farm,CleanTech,B2B2C,1,,,2019,https://mypowerfarm.com/
+516,1958,Pocketpet,"HealthTech, Life",B2B2C,1,,,2019,Pocketpet.co
+517,2034,Envelope,Transportation,B2B,1,,,2020,http://nutiparkla.com/
+518,2129,Formaloo,Business,B2B,2,,"2,800.00",2020,https://formaloo.com
+519,2158,FoxIoT,Advanced,"B2B, B2C,",1,,"31,200.00",2020,www.foxiot.eu
+520,2163,KBaas,Communication,B2B,1,,,2020,https://kbaas.ee
+521,2195,Cloud Factory,Advanced,"B2B,",4,,"37,900.00",2017,www.cloudfactory.jewelry
+522,2312,RogoBot,Transportation,B2B,1,,,2019,https://www.rogobot.com
+523,2345,Haltura.ee,Business,"B2B, C2C,",1,,"6,400.00",2018,https://haltura.ee/
+524,2398,TravelTube,TravelTech,B2B,4,,,2021,https://www.traveltube.io/
+525,2450,THE Entify,CyberTech,-,1,,,2019,www.entifyme.com
+526,2454,Werk,PropTech &,B2B,1,,"8,100.00",2020,https://www.werknow.eu/
+527,2470,GlyNeura,"HealthTech, Life",B2B,1,,,2021,https://glyneura.com/
+528,2490,Taskberry,Business,B2B,3,,,2020,www.taskberry.ee
+529,2519,Naabrid,Consumer,B2B,1,,,2019,https://store.naabrid.ee/
+530,2545,RAIKU,CleanTech,B2B,5,,"8,800.00",2021,www.raiku.co
+531,2653,OPTIMO Robotics,Advanced,B2B,3,,"45,100.00",2020,optimo.ee
+532,2688,Quantfall,CyberTech,B2B,1,,,2021,www.quantfall.com
+533,2694,Meliora,CleanTech,"B2B, B2G,",1,,,2022,melioraplanet.com
+534,2740,STRONG Dome Home,Advanced,"B2B, B2G,",1,,,2021,https://strongdomehome.com/
