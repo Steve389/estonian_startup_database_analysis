@@ -203,7 +203,7 @@ CREATE TABLE if not exists Estonia_Startup_Database_2021_Q3_Employment_taxes_K
 SELECT * FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3
 WHERE Employment_taxes LIKE '%K%';
 
--- Now I will work separately on these two tables to get my insights: I will calculate the amound of taxes paid in milions and in thousands.
+-- Now I will work separately on these two tables to get my insights: I will calculate the amount of taxes paid in milions and in thousands.
 -- However, there is another issue to solve; the table with the values in milions also contain the values that are less than a thousand: 
 -- I will have to include these too in my calculations. The first query will give me the sum of taxes paid per sector that were less than 
 -- one thousand per company, the second one the values in milions.
