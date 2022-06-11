@@ -1,162 +1,21 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2638
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;\f2\fnil\fcharset0 HelveticaNeue-BoldItalic;
-}
-{\colortbl;\red255\green255\blue255;\red27\green31\blue35;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18431;\cssrgb\c100000\c100000\c100000;}
-\margl1440\margr1440\vieww28600\viewh18000\viewkind0
-\deftab720
-\pard\pardeftab720\sa320\partightenfactor0
 
-\f0\b\fs36 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Estonia_Startup_Database_Analysis
-\f1\b0\fs32 \cb1 \
-\cb3 These are the steps I went through during my analysis:\cb1 \
-\cb3 1. PDF to CSV conversion \
-Since there was no option to download the datasets in CSV format, I wrote a python script that converted all the pdfs to CSV by using a package called tabula-py. This step was crucial because it allowed me to then import the CSV files to Mysql Workbench for my analysis.\cb1 \
-\cb3 2. SQL analysis \
-This step is quite straightforward: I imported all the datasets into SQL. Before doing that, I created a new database, and inside of this database, a new table for each quarter. After importing the CSV in each table, I started querying the database in order to answer most of the assignment questions.\cb1 \
-\cb3 3. String to numeric conversion \
-At this point, I exported the Q1 2022 CSV file and imported it into Python. Here I wrote another script to convert the columns 'Employment_taxes' and 'Turnover' into numerical values. This step was functional for the last visualization task: in order to plot these columns on Tableau, they had to be converted to numerical first.\cb1 \
-\cb3 4. Visualization\
-As a final step, I imported the converted CSV file to Tableau and was able to create my visualizations.\cb1 \
-\cb3 \
 
-\f0\b \
-TASK ANSWERS\
-\ul 1) How many people were employed by startups in Q1 2021?\
+These are the steps I went through during my analysis:
+1. PDF to CSV conversion
+Since there was no option to download the datasets in CSV format, I wrote a python script that converted all the pdfs to CSV by using a package called tabula-py. This step was crucial because it allowed me to then import the CSV files to Mysql Workbench for my analysis.
+2. SQL analysis
+This step is quite straightforward: I imported all the datasets into SQL. Before doing that, I created a new database, and inside of this database, a new table for each quarter. After importing the CSV in each table, I started querying the database in order to answer most of the assignment questions.
+3. String to numeric conversion 
+At this point, I exported the Q1 2022 CSV file and imported it into Python. Here I wrote another script to convert the columns 'Employment_taxes' and 'Turnover' into numerical values. This step was functional for the last visualization task: in order to plot these columns on Tableau, they had to be converted to numerical first.
+4. Visualization
+As a final step, I imported the converted CSV file to Tableau and was able to create my visualizations.
 
-\f1\b0 \ulnone In my interpretation, there are two answers to this question: one is to simply show how many people were employed by startups as of Q1 2021, and another one is to see whether there was a growth in the number of startup employees between Q1 2021 and Q4 2020. However, since we don't have the data on how many people were laid off, the second answer is more difficult. As a result, I will sum up the number of startup employees from the Q1 2021 table.\
-\
-SELECT SUM(Employee_count) FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q1;\
-\
-The result is 
-\f2\i\b 7108
-\f0\i0 .\
-\
-\ul 2) Name TOP 3 sectors based on turnover in Q1 2022\
 
-\f1\b0 \ulnone In order to answer, I will first select the columns that contain the string value M (millions). After that, I will simply ORDER BY turnover in descending order and only keep the first 3 top values by using the LIMIT statement.\
-\
-SELECT Sector, Turnover FROM Estonia_Startup_DB.Estonia_Startup_Database_2022_Q1 \
-WHERE Turnover LIKE '%M%'\
-ORDER BY Turnover\
-DESC \
-LIMIT 3\
-;\
-\
-The result is 
-\f2\i\b FinTech, CleanTech and AdTech
-\f0\i0 .\
-\
-\ul 3) How many startups which were founded between 2019-2021 had 1 or more employees in Q1 2022? Name also top 3 startups from that list based on employee count.\ulnone \
 
-\f1\b0 To answer the first question I will simply count the number of startups where the values of the column Year_Founded are between 2019 and 2021.\
-\
-SELECT COUNT(Startup) FROM Estonia_Startup_DB.Estonia_Startup_Database_2022_Q1\
-WHERE Year_Founded BETWEEN 2019 and 2021 ;\
-\
-The result is 
-\f2\i\b 174
-\f0\i0 .\
-\
 
-\f1\b0 After this, I will select the startups that were founded between 2019 and 2021 and that have at least one employee. Finally, I will order by Employee_count and just keep the top 3 values.\
-\
-SELECT Startup FROM Estonia_Startup_DB.Estonia_Startup_Database_2022_Q1\
-WHERE Year_Founded BETWEEN 2019 and 2021 \
-AND Employee_count > 1\
-ORDER BY Employee_count\
-DESC\
-LIMIT 3;\
-\
-The result is 
-\f2\i\b Swappie, Tuum, Single.Earth.\
-\
 
-\f0\i0 \ul 4) How much employment taxes were paid by Fintech startups in Q3 2021? Name the Advanced Manifacturing and Industry sector startups which had 100 or more employees in the same quarter.\ulnone \
 
-\f1\b0 First I will need to remove some characters from the Employment_taxes column.\
-\
-UPDATE Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3 SET Employment_taxes = REPLACE(Employment_taxes, '?', ' ');\
-UPDATE Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3 SET Employment_taxes = REPLACE(Employment_taxes, 'M', ' ');\
-\
-At this point I will create two separate tables: one with the values in millions, one with the values in thousands.\
-\
-CREATE TABLE if not exists Estonia_Startup_Database_2021_Q3_Employment_taxes_M \
-SELECT * FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3\
-WHERE Employment_taxes NOT LIKE '%K%';\
-CREATE TABLE if not exists Estonia_Startup_Database_2021_Q3_Employment_taxes_K \
-SELECT * FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3\
-WHERE Employment_taxes LIKE '%K%';\
-\
-Now I will work separately on these two tables to get my insights: I will calculate the amount of taxes paid in millions and in thousands. However, there is another issue to solve; the table with the values in millions also contains the values that are less than a thousand: I will have to include these too in my calculations. The first query will give me the sum of taxes paid per sector that were less than one thousand per company, and the second one the values in millions.\
-\
-SELECT SUM(Employment_taxes), Sector FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3_Employment_taxes_M\
-WHERE Employment_taxes NOT LIKE '%.%'\
-GROUP BY Sector;\
-The result is 
-\f2\i\b 2867.
-\f1\i0\b0 \
-\
-SELECT SUM(Employment_taxes), Sector FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3_Employment_taxes_M\
-WHERE Employment_taxes LIKE '%.%'\
-GROUP BY Sector;\
-The result is 
-\f2\i\b 6.4
-\f1\i0\b0 .\
-\
-Now I will do the same query in the table with the values in thousands. First though, I will have to get rid of the K character.\
-\
-UPDATE Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3_Employment_taxes_K SET Employment_taxes = REPLACE(Employment_taxes, 'K', ' ');\
-SELECT SUM(Employment_taxes), Sector FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3_Employment_taxes_K\
-GROUP BY Sector;\
-The result is 
-\f2\i\b 3861.3
-\f1\i0\b0 .\
-Now I can sum all the values found: in Q3 2021 Fin Tech startups paid 
-\f2\i\b 6.406.728,3
-\f1\i0\b0  in employment taxes.\
-\
-To select the Advanced Manifacturing and Industry sector startuos that had more than 100 employees in Q3 2021, I will run this query: \
-SELECT Startup, Sector, Employee_count FROM Estonia_Startup_DB.Estonia_Startup_Database_2021_Q3\
-WHERE Sector = 'Advanced'\
-AND Employee_count > 100\
-\
-The result is 
-\f2\i\b 0
-\f1\i0\b0 .\
-\
+ 
 
-\f0\b \ul 5) How many startups are using AI, Data Analytics or smart home as technology in Q1 2022? How many of them were founded before 2015 and which startup from the latter list had the most employees in Q1 2022?\
 
-\f1\b0 \ulnone This can be answered by just checking the actual database website where you can filter by different technologies, year founded and you can check the number of employees per company.  \
-The number of startups using these technologies in Q1 2022 is 
-\f2\i\b 532
-\f1\i0\b0 . \
-
-\f2\i\b 33
-\f1\i0\b0  of them were founded before 2015 and out of these, \
-
-\f2\i\b Starship
-\f1\i0\b0  is the company with the highest employee count in Q1 2022.\
-
-\f0\b \
-\ul 6) Name 3-5 aspects you found useful and 3-5 aspects you found missing in the dataset
-\f1\b0 \cb1 \
-\cb3 \ulnone Pros\cb1 \
-\cb3 -The database was user-friendly and not difficult to interpret. Anyone could check the website and gain some useful insight relatively easily. \
--The database is not too vast and confusing: there are only the necessary columns and this effectively reduces data redundancy. \
--I really liked the user interface and the option to select specific filters in order to gain insights. It felt like anyone could do some basic data analysis without having to download any dataset or go through tedious steps. Of course, this is easier to implement with a small dataset. \
-Cons\cb1 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \cb3 -For me, the main struggle was not having the option to download the dataset in a CSV format. Things for me would have been much easier in that case. But then again, things are never supposed to be easy for a data analyst :D. \
-\
--I think it would also be interesting to see a single dataset with all the data from the last 10 or so years, instead of having to download many small datasets for each quarter. Having both options available might be a good solution.\
-\
-\
-\
-\
-\
-\
-\
-}
